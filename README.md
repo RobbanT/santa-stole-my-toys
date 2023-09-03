@@ -1,2 +1,2 @@
-# santa-stole-my-toys
-A game written in C#.
+# Santa Stole My Toys
+![](/santa-stole-my-toys.png)
